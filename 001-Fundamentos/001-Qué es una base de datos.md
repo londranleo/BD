@@ -4,3 +4,6 @@ Una base de datos es un conjunto de **Datos** pertenecen a un mismo contexto y a
 
 Puede ser datos cuyos contenido o tematica difieren entre si, pero que poseen relaciones comun.
 
+
+
+

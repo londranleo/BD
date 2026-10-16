@@ -9,3 +9,4 @@ El servidor de bases de datos es quien tiene instalado dentro al SGBD.
 Por ejemplo puede tener un servidor con MySQL, otro con Oracle, otro con una base de datos no relacional, etc. 
 
 Para poder usar base de datos tenemos que contar o instalar un servidor. 
+

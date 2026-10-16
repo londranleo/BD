@@ -1,5 +1,7 @@
 # SGBD - DBMS
 
+Un SGBD es un programa  que permite, crear y amtener una base de datos, ademas de proporcionar acceso controlado. 
+
 Dependiendo si la base de datos a tratar es relacional  o no relacional, existen diferentes SGB. entre ellos se pueden encontrar:
 
 Relacionales 
