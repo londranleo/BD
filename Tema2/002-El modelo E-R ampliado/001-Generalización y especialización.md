@@ -6,7 +6,7 @@ Consiste en coger una entidad y dividirla en entidades mas especificas.
 
 Ejemplo tenemos una `Persona`, que se divide en `Alumno`y `Profesor`. 
 
-![[Especialización.png]]
+![[002.png|700]]
 
 # Generalización 
 
@@ -14,11 +14,11 @@ Es Justo lo contrario. juntar varias entidades específicas para crear una entid
 
 Ejemplo tenemos `Choche`y `Moto`, Creamos una entidad general llamada `Vehículo`. 
 
-![[Generalización.png]]
+![[003.png|700]]
 
 Herencia Una entidad hija recibe los atributos de un entidad padre. 
 
-![[Herencia.png]]
+![[004.png|700]]
 
 las entidades hijas heredan todos los atributos de la entidad padre y además pueden tener atributos propios.
 

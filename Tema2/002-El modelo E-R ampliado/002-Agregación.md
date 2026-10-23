@@ -4,7 +4,7 @@ Ejemplo: Médico, paciente y medicamento.
 
 Imagina que tenemos Medico que atiende a un paciente, El paciente recibe la atención, y El medicamento el medico lo receta durante esa atención.
 
-![[Agregacion.png]]
+![[001.png|700]]
 
 Composición  es una relación entre todo y sus partes en la que las partes depende fuertemente del todo para existir. 
 
